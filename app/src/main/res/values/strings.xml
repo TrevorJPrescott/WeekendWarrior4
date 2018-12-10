@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeekendWarrior4</string>
+    <string name="REQUEST_ZIP">Enter Zipcode</string>
+    <string name="DEFAULT">Default</string>
+</resources>
